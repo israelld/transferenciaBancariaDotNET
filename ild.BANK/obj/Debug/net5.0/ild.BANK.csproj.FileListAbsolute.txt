@@ -1,0 +1,16 @@
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ild.BANK.exe
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ild.BANK.deps.json
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ild.BANK.runtimeconfig.json
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ild.BANK.runtimeconfig.dev.json
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ild.BANK.dll
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ref\ild.BANK.dll
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\bin\Debug\net5.0\ild.BANK.pdb
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.csprojAssemblyReference.cache
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.AssemblyInfoInputs.cache
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.AssemblyInfo.cs
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.csproj.CoreCompileInputs.cache
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.dll
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ref\ild.BANK.dll
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.pdb
+D:\Developer Projects\transferenciaBancariaDotNET\ild.BANK\obj\Debug\net5.0\ild.BANK.genruntimeconfig.cache
